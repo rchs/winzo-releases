@@ -1,0 +1,2 @@
+# winzo-releases
+WinZO Releases
